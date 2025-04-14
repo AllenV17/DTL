@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Forked repo comment
+
 to_decimal() {
     local input="$1"
     # If input starts with 0x, it's hexadecimal
